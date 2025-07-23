@@ -1,2 +1,1 @@
-# satyam-project
-Ai salery predictor
+# AICTE-Garbage-Classification
